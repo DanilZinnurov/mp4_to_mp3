@@ -1,7 +1,7 @@
-# Mp4 to mp3 converter
-A program to convert mp4 files to mp3. The mp3 file is saved in the program directory. The location of the mp3 file is selected through the program.
-Two ways of installation.
+# Программа для конвертирования MP4 файлов в MP3
+Программа предлагает пользователю выбрать файл, который нужно конвертировать. Затем после выбора MP3 файл сохраняется в папке, где располагается программа.
 
-1) Downloading Handler folder and launching Handler.exe
- 
-2) Downloading Handler.py file and libraries from requirements file and running the file from any IDLE
+Чтобы использовать программу, нужно:
+
+Скачать файл Handler.py и установить на компьютер требуемые библиотеки указанные в текстовом файле requirements.
+Затем запустить файл Handler.py.
